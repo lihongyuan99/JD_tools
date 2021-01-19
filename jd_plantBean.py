@@ -13,7 +13,7 @@ import jdCookie
 
 plantUuid = ["7pt22jcko7ljrbpeask7r6avre3h7wlwy7o5jii",
              "r7zdf2yfo4phlpel3nu4q63reu",
-             "e7lhibzb3zek2ssdsoyhpgn26va7nkkzj6ygely"]  # 填写别人的助力码
+             "mlrdw3aw26j3xvp4ebn6p6huq7adh6tg2tfsapi"]  # 填写别人的助力码
 
 def functionTemplate(cookies, functionId, body):
     headers = {
